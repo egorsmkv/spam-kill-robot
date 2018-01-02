@@ -1,0 +1,7 @@
+[[constraint]]
+  name = "github.com/go-telegram-bot-api/telegram-bot-api"
+  version = "v4.6.1"
+  
+[[constraint]]
+  name = "github.com/asdine/storm"
+  version = "v2.0.0"
